@@ -101,6 +101,20 @@ Exit
 
 ---
 
+## 📜 License
+
+This project is open-source and available for **educational and academic use** under the **MIT License**.
+
+---
+
+## 📧 Contact
+
+For inquiries or feedback:
+
+- **Ghulam Qadir** — 📧 gqitspecialist@gmail.com  
+- **Noor Malik** — 🔗 [LinkedIn](https://www.linkedin.com/in/noormalik56500)
+
+
 ## 📦 How to Run
 
 ### ✅ Compile
@@ -122,15 +136,3 @@ g++ -o phonebook phonebook.cpp
 
 ---
 
-## 📜 License
-
-This project is open-source and available for **educational and academic use** under the **MIT License**.
-
----
-
-## 📧 Contact
-
-For inquiries or feedback:
-
-- **Ghulam Qadir** — 📧 gqitspecialist@gmail.com  
-- **Noor Malik** — 🔗 [LinkedIn](https://www.linkedin.com/in/noormalik56500)
